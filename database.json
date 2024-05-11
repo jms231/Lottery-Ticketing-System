@@ -1,0 +1,170 @@
+{
+  "users": [
+    {
+      "firstName": "Halmuhammet",
+      "lastName": "Muhamedorazov",
+      "address": "tech",
+      "email": "hmuhamed@ttu.edu",
+      "password": "$2b$10$/LNeM42nE.D9wINcvrxwhO8UX7UogXOG4D.aQ/8AqsHc6QfQLyOFW",
+      "admin": "admin"
+    },
+    {
+      "firstName": "Asmi",
+      "lastName": "vaite",
+      "address": "Tech",
+      "email": "asmi.vaite@ttu.edu",
+      "password": "$2b$10$ImmMUjlOEfO6MW.k45Lpte824yyRoy49ayqy.JtNOAQ665SgYyYkC",
+      "admin": "admin"
+    },
+    {
+      "firstName": "Azzam",
+      "lastName": "Sahel",
+      "address": "Tech",
+      "email": "saazzam@ttu.edu",
+      "password": "$2b$10$ATCKcFFwLEHynq9YpLfdcO7QSCvrPkJavC41NCpbxsP1/KKHt8vL.",
+      "admin": "admin"
+    },
+    {
+      "firstName": "Josh",
+      "lastName": "Schneider",
+      "address": "Tech",
+      "email": "josschne@ttu.edu",
+      "password": "$2b$10$O9knYmjZepBC9ej3tTznsOtFy78THt0TCYOHADC8KNwgNmpQaeEVq",
+      "admin": "admin"
+    },
+    {
+      "firstName": "f",
+      "lastName": "f",
+      "address": "f",
+      "email": "jimmy@gmail.com",
+      "password": "$2b$10$YfKKO.tYZOsadLFncfDtDOwlIiseZEBIQEi2qA1GzI7lKmKkZY3Em",
+      "admin": "user",
+      "tickets": [
+        {
+          "type": "Power Ball",
+          "number": "12315"
+        },
+        {
+          "type": "Lotto Texas",
+          "number": 91207
+        },
+        {
+          "type": "Lotto Texas",
+          "number": 34754
+        }
+      ]
+    },
+    {
+      "firstName": "f",
+      "lastName": "f",
+      "address": "f",
+      "email": "splonk@gmail.com",
+      "password": "$2b$10$nBSqBhWW7gTB53s.E0VLdeklZkdJHVWPpeLILZdryUqITIv0hMbh.",
+      "admin": "user",
+      "tickets": [
+        {
+          "type": "Power Ball",
+          "number": 20184
+        },
+        {
+          "type": "Power Ball",
+          "number": 20184
+        },
+        {
+          "type": "Power Ball",
+          "number": 35140
+        },
+        {
+          "type": "Power Ball",
+          "number": 15640
+        },
+        {
+          "type": "Power Ball",
+          "number": 15640
+        },
+        {
+          "type": "Mega Millions",
+          "number": 70982
+        },
+        {
+          "type": "Mega Millions",
+          "number": 70982
+        },
+        {
+          "type": "Mega Millions",
+          "number": 70982
+        },
+        {
+          "type": "Mega Millions",
+          "number": 70982
+        },
+        {
+          "type": "Power Ball",
+          "number": 95862
+        }
+      ]
+    },
+    {
+      "firstName": "test",
+      "lastName": "test",
+      "address": "test",
+      "email": "test@gmail.com",
+      "password": "$2b$10$WqM4VAV84XCHQB/MWJO9MuQGpSDe4sAsSqUIGY2oajwrNU49KTYci",
+      "admin": "user",
+      "tickets": [
+        {
+          "type": "Power Ball",
+          "number": 65396
+        },
+        {
+          "type": "Mega Millions",
+          "number": 84279
+        },
+        {
+          "type": "Power Ball",
+          "number": "45651"
+        }
+      ]
+    },
+    {
+      "firstName": "test",
+      "lastName": "test",
+      "address": "test",
+      "email": "test1@gmail.com",
+      "password": "$2b$10$EdN8Mnx.XTFd6N4/22IH6.y0ikuyeFGZvPyw.TTnCr1oM9JgEAE6C",
+      "admin": "user",
+      "tickets": [
+        {
+          "type": "Power Ball",
+          "number": 13652
+        },
+        {
+          "type": "Mega Millions",
+          "number": 55161
+        },
+        {
+          "type": "Power Ball",
+          "number": "23154"
+        }
+      ]
+    },
+    {
+      "firstName": "user",
+      "lastName": "user",
+      "address": "user",
+      "email": "user@gmail.com",
+      "password": "$2b$10$rwHhUYPOZ2QbUK98pNb3Le89Iq3Z.byMlyMuOOlfFy9yKu0Iqs/UK",
+      "admin": "user",
+      "tickets": [
+        {
+          "type": "Mega Millions",
+          "number": 95652
+        },
+        {
+          "type": "Mega Millions",
+          "number": 49510
+        }
+      ]
+    }
+  ]
+}
