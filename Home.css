@@ -1,0 +1,29 @@
+.homeheader{
+  display: flex;
+  flex-direction: column;
+  background-color: #bbb;
+  align-items: center;
+  gap: 9px;
+  width: 100%;
+  margin-top: 30px;
+}
+
+.homecontainer{
+  text-align: center;
+  background-color: #bbb;
+}
+.container1{
+  display: flex;
+  flex-direction: column;
+  margin-top: 100px;
+  padding-bottom: 3000px;
+}
+.top{
+  background: rgb(0,212,255);
+background: linear-gradient(90deg, rgba(0,212,255,1) 10%, rgba(5,70,245,1) 50%, rgba(0,212,255,1) 90%);
+  display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 0px;
+    padding-bottom:50px;
+}

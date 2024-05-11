@@ -1,0 +1,75 @@
+    .topnav {
+    overflow: hidden;
+    background: rgb(0,212,255);
+    background: linear-gradient(90deg, rgba(0,212,255,1) 10%, rgba(5,70,245,1) 50%, rgba(0,212,255,1) 90%);
+  }
+  .homeroute{
+    justify-content: left;
+    display: flex;
+  }
+  .topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .ticket-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 20px;
+  }
+  
+  .ticket {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .button {
+    background-color: #313131;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    margin: 0 auto;
+    width: 500px; /* Set a fixed width for the buttons */
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .buttonContainer{
+    background-color: #bbb;
+    padding: 0px 0px;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    font-size: 16px;
+    border-radius: 4px;
+
+  }
+  
+  .button:hover {
+    background-color: #090085;
+  }
